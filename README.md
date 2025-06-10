@@ -1,7 +1,7 @@
 # Healthcare-Digitalization-Strategy
 
 <div align="center">
-  <img src="YOUR_LOGO_URL" alt="Healthcare-Digitalization-Strategy Banner" height="8%" width="10%" />
+  <img src="https://ucarecdn.com/233658bf-268b-4875-80ea-8c73a0a8db15/chmm.png" alt="Healthcare-CureLink Banner" height = "8%" width="10%" />
   <p align="center">
     <strong>A strategic framework for healthcare digital transformation</strong>
   </p>
