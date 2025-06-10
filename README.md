@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   </p>
-  <img src="YOUR_SCREENSHOT_URL" alt="Healthcare-Digitalization-Strategy Banner" width="100%" />
+  <img src="public/5e28c9ed-c0e0-4192-b839-f7bbd3059699.jpeg" alt="Healthcare-Digitalization-Strategy Banner" width="120%" height="60%" />
 </div>
 
 ---
